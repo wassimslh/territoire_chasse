@@ -1,0 +1,11 @@
+/* Ajoutez des styles personnalisés selon vos préférences */
+#coordInputContainer {
+    position: absolute;
+    top: 679px;
+    left: 9px;
+    z-index: 1000;
+    background-color: white;
+    padding: 10px;
+    border: 1px solid 'rgba(217, 24, 24, 0.85)';
+    border-radius: 5px;
+}

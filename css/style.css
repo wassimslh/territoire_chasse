@@ -1,0 +1,5 @@
+nav img {
+    width: 50px; /* Ajustez la largeur selon vos besoins */
+    height: auto; /* Permet au logo de conserver ses proportions */
+    margin-right: 10px; /* Ajoute une marge à droite du logo pour l'espace */
+}
